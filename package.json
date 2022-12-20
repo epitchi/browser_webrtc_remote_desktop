@@ -1,6 +1,6 @@
 {
     "name": "browser-webrtc-remote-desktop",
-    "version": "0.0.4",
+    "version": "0.0.9",
     "description": "A browser webrtc package for remote desktop",
     "main": "index.js",
     "scripts": {
